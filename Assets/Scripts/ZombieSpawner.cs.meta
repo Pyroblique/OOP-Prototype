@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: f3a997c1581b0f1419484223ed775835
+timeCreated: 1510525300
+licenseType: Pro
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - target: {fileID: 4303434202160830, guid: b5bbb52f24812434fb7f6ef395fac5cf, type: 2}
+  - zombiePrefab: {fileID: 1814689711002310, guid: 3493e3779f2a2f645a084fa09efc77d8,
+      type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
