@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using UnityEngine;
 
-public class Camera : MonoBehaviour
+public class CameraOrbit : MonoBehaviour
 {
     public float mouseSensitivity = 2f;
     public float minimumY = -90f;
