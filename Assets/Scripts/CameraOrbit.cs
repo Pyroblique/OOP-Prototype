@@ -19,7 +19,7 @@ public class CameraOrbit : MonoBehaviour
         Cursor.lockState = CursorLockMode.Locked; //(didn't realise it was this easy)
         // Hide cursor
         Cursor.visible = false;
-        Camera cam = GetComponentInChildren<Camera>();
+        CameraOrbit cam = GetComponentInChildren<CameraOrbit>();
         if(cam != null)
         {
             mainCamera = cam.gameObject;
